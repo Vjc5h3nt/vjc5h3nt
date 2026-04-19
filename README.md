@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Manohar Mallipudi
+# Hi, I'm Manohar
 
 **AI/ML Engineer**
 
