@@ -49,6 +49,8 @@ Building intelligent systems using LLMs, RAG pipelines, and agentic AI, with a f
 ![Strands SDK](https://img.shields.io/badge/Strands_SDK-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=spacy&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ### Vector Databases
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -79,18 +81,6 @@ Building intelligent systems using LLMs, RAG pipelines, and agentic AI, with a f
 ![Salesforce AI Associate](https://img.shields.io/badge/Salesforce_AI_Associate-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![Salesforce Certified Associate](https://img.shields.io/badge/Salesforce_Certified_Associate-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![Anthropic Claude Certified Architect](https://img.shields.io/badge/Claude_Certified_Architect_--_Foundations-191919?style=flat&logo=anthropic&logoColor=white)
-
----
-
-## Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [IT-Query-Agent-RAG](https://github.com/Vjc5h3nt/IT-Query-Agent-RAG) | IT Query Agent chatbot with RAG | Python |
-| [Multi-Lingual-RAG-ChatBot](https://github.com/Vjc5h3nt/Multi-Lingual-RAG-ChatBot) | Multi-lingual RAG chatbot | Python |
-| [TicketAutomation](https://github.com/Vjc5h3nt/TicketAutomation) | Automated ticket management system | Python |
-| [DL-CNN](https://github.com/Vjc5h3nt/DL-CNN) | Playbook for Convolutional Neural Networks | Jupyter |
-| [DL-ANN](https://github.com/Vjc5h3nt/DL-ANN) | Playbook for Artificial Neural Networks | Jupyter |
 
 ---
 
