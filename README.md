@@ -1,16 +1,114 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Vjc5h3nt/vjc5h3nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Manohar Mallipudi
 
-Here are some ideas to get you started:
+**AI Engineer | Cloud Architect | Open Source Contributor**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building intelligent systems with LLMs, RAG pipelines, and agentic AI — deployed at scale on cloud infrastructure.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manohar-mallipudi/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vjc5h3nt)
+
+</div>
+
+---
+
+## Open Source Contributions
+
+<!-- OPEN_PRS starts -->
+| Repository | PR | Status |
+|------------|----|----|
+| [open-telemetry/opentelemetry-ecosystem-explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer) | [fix(explorer): improve tab styling with se...](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pull/259) | 🟡 Open |
+| [open-telemetry/opentelemetry-ecosystem-explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer) | [feat(explorer): add PR screenshot automati...](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pull/247) | 🟢 Merged |
+| [terraform-aws-modules/terraform-aws-cloudfront](https://github.com/terraform-aws-modules/terraform-aws-cloudfront) | [fix: Correct v2_logging example configuration](https://github.com/terraform-aws-modules/terraform-aws-cloudfront/pull/198) | 🟢 Merged |
+| [open-telemetry/opentelemetry-ecosystem-explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer) | [feat(explorer): add icons and copyright no...](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pull/225) | 🟢 Merged |
+<!-- OPEN_PRS ends -->
+
+<details>
+<summary><b>View all contributions</b></summary>
+
+<!-- ALL_PRS starts -->
+**Total Pull Requests:** 6
+
+| Project | Contributions |
+|---------|---------------|
+| open-telemetry | 3 PRs (opentelemetry-ecosystem-explorer) |
+| terraform-aws-modules | 1 PRs (terraform-aws-cloudfront) |
+<!-- ALL_PRS ends -->
+
+</details>
+
+---
+
+## Tech Stack
+
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logoColor=white)
+![Strands SDK](https://img.shields.io/badge/Strands_SDK-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### Vector Databases
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4A154B?style=flat-square&logoColor=white)
+
+### Cloud
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+### Infrastructure
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+---
+
+## Certifications
+
+| Provider | Certification | Date |
+|----------|--------------|------|
+| ![GCP](https://img.shields.io/badge/-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | **Professional Cloud Developer** | Nov 2023 |
+| ![GCP](https://img.shields.io/badge/-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | **Associate Cloud Engineer** | Jun 2023 |
+| ![AWS](https://img.shields.io/badge/-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | **Certified AI Practitioner** | Feb 2025 |
+| ![AWS](https://img.shields.io/badge/-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | **Certified Cloud Practitioner** | Nov 2022 |
+| ![Salesforce](https://img.shields.io/badge/-00A1E0?style=flat-square&logo=salesforce&logoColor=white) | **Agentforce Specialist** | Mar 2025 |
+| ![Salesforce](https://img.shields.io/badge/-00A1E0?style=flat-square&logo=salesforce&logoColor=white) | **AI Associate** | Mar 2025 |
+| ![Salesforce](https://img.shields.io/badge/-00A1E0?style=flat-square&logo=salesforce&logoColor=white) | **Certified Associate** | Jun 2023 |
+| ![Anthropic](https://img.shields.io/badge/-191919?style=flat-square&logo=anthropic&logoColor=white) | **Claude Certified Architect -- Foundations** | 2026 |
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [IT-Query-Agent-RAG](https://github.com/Vjc5h3nt/IT-Query-Agent-RAG) | IT Query Agent chatbot with RAG | Python |
+| [Multi-Lingual-RAG-ChatBot](https://github.com/Vjc5h3nt/Multi-Lingual-RAG-ChatBot) | Multi-lingual RAG chatbot | Python |
+| [TicketAutomation](https://github.com/Vjc5h3nt/TicketAutomation) | Automated ticket management system | Python |
+| [DL-CNN](https://github.com/Vjc5h3nt/DL-CNN) | Playbook for Convolutional Neural Networks | Jupyter |
+| [DL-ANN](https://github.com/Vjc5h3nt/DL-ANN) | Playbook for Artificial Neural Networks | Jupyter |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vjc5h3nt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vjc5h3nt&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vjc5h3nt&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+<sub>This README updates automatically via <a href=".github/workflows/update-readme.yml">GitHub Actions</a> -- contributions section refreshes every 6 hours.</sub>
+</div>
