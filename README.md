@@ -2,9 +2,9 @@
 
 # Hey, I'm Manohar Mallipudi
 
-**AI Engineer | Cloud Architect | Open Source Contributor**
+**AI/ML Engineer**
 
-Building intelligent systems with LLMs, RAG pipelines, and agentic AI — deployed at scale on cloud infrastructure.
+Building intelligent systems using LLMs, RAG pipelines, and agentic AI, with a focus on scalable cloud deployment, observability, and monitoring. Open-source contributor (learning and growing along the way)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manohar-mallipudi/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vjc5h3nt)
