@@ -71,16 +71,14 @@ Building intelligent systems using LLMs, RAG pipelines, and agentic AI, with a f
 
 ## Certifications
 
-| Provider | Certification | Date |
-|----------|--------------|------|
-| ![GCP](https://img.shields.io/badge/-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | **Professional Cloud Developer** | Nov 2023 |
-| ![GCP](https://img.shields.io/badge/-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | **Associate Cloud Engineer** | Jun 2023 |
-| ![AWS](https://img.shields.io/badge/-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | **Certified AI Practitioner** | Feb 2025 |
-| ![AWS](https://img.shields.io/badge/-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | **Certified Cloud Practitioner** | Nov 2022 |
-| ![Salesforce](https://img.shields.io/badge/-00A1E0?style=flat-square&logo=salesforce&logoColor=white) | **Agentforce Specialist** | Mar 2025 |
-| ![Salesforce](https://img.shields.io/badge/-00A1E0?style=flat-square&logo=salesforce&logoColor=white) | **AI Associate** | Mar 2025 |
-| ![Salesforce](https://img.shields.io/badge/-00A1E0?style=flat-square&logo=salesforce&logoColor=white) | **Certified Associate** | Jun 2023 |
-| ![Anthropic](https://img.shields.io/badge/-191919?style=flat-square&logo=anthropic&logoColor=white) | **Claude Certified Architect -- Foundations** | 2026 |
+![GCP Professional Cloud Developer](https://img.shields.io/badge/GCP_Professional_Cloud_Developer-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![GCP Associate Cloud Engineer](https://img.shields.io/badge/GCP_Associate_Cloud_Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS AI Practitioner](https://img.shields.io/badge/AWS_Certified_AI_Practitioner-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Salesforce Agentforce Specialist](https://img.shields.io/badge/Salesforce_Agentforce_Specialist-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Salesforce AI Associate](https://img.shields.io/badge/Salesforce_AI_Associate-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Salesforce Certified Associate](https://img.shields.io/badge/Salesforce_Certified_Associate-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Anthropic Claude Certified Architect](https://img.shields.io/badge/Claude_Certified_Architect_--_Foundations-191919?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
