@@ -18,6 +18,8 @@ Building intelligent systems using LLMs, RAG pipelines, and agentic AI, with a f
 <!-- OPEN_PRS starts -->
 | Repository | PR | Status |
 |------------|----|----|
+| [open-telemetry/opentelemetry-ecosystem-explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer) | [fix: use pull_request event ref for screen...](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pull/268) | 🟢 Merged |
+| [open-telemetry/opentelemetry-ecosystem-explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer) | [fix: add missing event types to screenshot...](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pull/266) | 🟢 Merged |
 | [open-telemetry/opentelemetry-ecosystem-explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer) | [fix(explorer): improve tab styling with se...](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pull/259) | 🟡 Open |
 | [open-telemetry/opentelemetry-ecosystem-explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer) | [feat(explorer): add PR screenshot automati...](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pull/247) | 🟢 Merged |
 | [terraform-aws-modules/terraform-aws-cloudfront](https://github.com/terraform-aws-modules/terraform-aws-cloudfront) | [fix: Correct v2_logging example configuration](https://github.com/terraform-aws-modules/terraform-aws-cloudfront/pull/198) | 🟢 Merged |
@@ -28,11 +30,11 @@ Building intelligent systems using LLMs, RAG pipelines, and agentic AI, with a f
 <summary><b>View all contributions</b></summary>
 
 <!-- ALL_PRS starts -->
-**Total Pull Requests:** 7
+**Total Pull Requests:** 10
 
 | Project | Contributions |
 |---------|---------------|
-| open-telemetry | 3 PRs (opentelemetry-ecosystem-explorer) |
+| open-telemetry | 5 PRs (opentelemetry-ecosystem-explorer) |
 | terraform-aws-modules | 1 PRs (terraform-aws-cloudfront) |
 <!-- ALL_PRS ends -->
 
