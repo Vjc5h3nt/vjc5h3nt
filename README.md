@@ -18,6 +18,7 @@ Building intelligent systems using LLMs, RAG pipelines, and agentic AI, with a f
 <!-- OPEN_PRS starts -->
 | Repository | PR | Status |
 |------------|----|----|
+| [docling-project/docling-core](https://github.com/docling-project/docling-core) | [fix(chunking): handle empty TripletTableSe...](https://github.com/docling-project/docling-core/pull/596) | 🟡 Open |
 | [open-telemetry/opentelemetry-ecosystem-explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer) | [fix: use pull_request event ref for screen...](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pull/268) | 🟢 Merged |
 | [open-telemetry/opentelemetry-ecosystem-explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer) | [fix: add missing event types to screenshot...](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pull/266) | 🟢 Merged |
 | [open-telemetry/opentelemetry-ecosystem-explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer) | [fix(explorer): improve tab styling with se...](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pull/259) | 🟢 Merged |
@@ -30,11 +31,12 @@ Building intelligent systems using LLMs, RAG pipelines, and agentic AI, with a f
 <summary><b>View all contributions</b></summary>
 
 <!-- ALL_PRS starts -->
-**Total Pull Requests:** 10
+**Total Pull Requests:** 11
 
 | Project | Contributions |
 |---------|---------------|
 | open-telemetry | 5 PRs (opentelemetry-ecosystem-explorer) |
+| docling-project | 1 PRs (docling-core) |
 | terraform-aws-modules | 1 PRs (terraform-aws-cloudfront) |
 <!-- ALL_PRS ends -->
 
