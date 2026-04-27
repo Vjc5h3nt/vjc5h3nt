@@ -31,7 +31,7 @@ Building intelligent systems using LLMs, RAG pipelines, and agentic AI, with a f
 <summary><b>View all contributions</b></summary>
 
 <!-- ALL_PRS starts -->
-**Total Pull Requests:** 11
+**Total Pull Requests:** 12
 
 | Project | Contributions |
 |---------|---------------|
