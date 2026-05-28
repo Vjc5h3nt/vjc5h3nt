@@ -18,7 +18,7 @@ Building intelligent systems using LLMs, RAG pipelines, and agentic AI, with a f
 <!-- OPEN_PRS starts -->
 | Repository | PR | Status |
 |------------|----|----|
-| [docling-project/docling-core](https://github.com/docling-project/docling-core) | [fix(chunking): handle empty TripletTableSe...](https://github.com/docling-project/docling-core/pull/596) | 🟡 Open |
+| [docling-project/docling-core](https://github.com/docling-project/docling-core) | [fix(chunking): handle empty TripletTableSe...](https://github.com/docling-project/docling-core/pull/596) | 🟢 Merged |
 | [open-telemetry/opentelemetry-ecosystem-explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer) | [fix: use pull_request event ref for screen...](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pull/268) | 🟢 Merged |
 | [open-telemetry/opentelemetry-ecosystem-explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer) | [fix: add missing event types to screenshot...](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pull/266) | 🟢 Merged |
 | [open-telemetry/opentelemetry-ecosystem-explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer) | [fix(explorer): improve tab styling with se...](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pull/259) | 🟢 Merged |
